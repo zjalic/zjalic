@@ -6,7 +6,7 @@
 ```sh
 
 
-"Just a Tech"
+Just a Tech
 
 ```
 
